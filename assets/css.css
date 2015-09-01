@@ -1,0 +1,26 @@
+body{
+background: #000;
+text-align: center;
+padding: 0;
+margin: 0;
+}
+canvas{
+border: 10px solid #3B3B3B;
+border-radius: 15px;
+box-shadow: 0 0 10px #2D2D2D;
+}
+a {
+text-decoration: none;
+color: #EAEAEA;
+background: #1096EF !important;
+border-radius: 5px;
+padding: 4px 7px;
+font-size: 19px;
+letter-spacing: 0.1em;
+}
+h1 {
+color: #C2C2C2;
+font-family: arial;
+font-size: 23px;
+margin: 25px 0;
+}
